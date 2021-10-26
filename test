@@ -1,0 +1,7 @@
+echo "# on-this-day-in-law-history" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jacoby-scott/on-this-day-in-law-history.git
+git push -u origin main
